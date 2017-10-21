@@ -1,4 +1,4 @@
-import requests  
+import requests
 
 url = "https://api.telegram.org/bot424475122:AAHZ8iO6KHSTmACSBVlpDH4YKHLwxuXPslc/"
 
@@ -92,5 +92,4 @@ send_mess(chat_id, 'Your message goes here')
             #main()
         #except KeyboardInterrupt:
             #exit()
-            
             
